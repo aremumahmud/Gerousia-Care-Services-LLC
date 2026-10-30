@@ -1,0 +1,13 @@
+{
+  "name": "Gerousia Care Services",
+  "short_name": "Gerousia Care",
+  "description": "Compassionate non-medical home care in Austin & San Antonio, TX.",
+  "icons": [
+    { "src": "/favicon.png", "sizes": "64x64", "type": "image/png" },
+    { "src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ],
+  "theme_color": "#0E3156",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "start_url": "/"
+}
