@@ -141,7 +141,7 @@ export const posts = [
       },
       {
         "type": "p",
-        "text": "Whether you’re exploring support for yourself or someone you love, we welcome the opportunity to learn what matters to you. Call Gerousia Care Services at (586) 356-3509 or send us a message to ask about upcoming services."
+        "text": "Whether you’re exploring support for yourself or someone you love, we welcome the opportunity to learn what matters to you. Call Gerousia Care Services at (833) 995-8271 or send us a message to ask about upcoming services."
       },
       {
         "type": "p",
@@ -311,7 +311,7 @@ export const posts = [
       },
       {
         "type": "p",
-        "text": "Call us at (586) 356-3509 or send us a message to learn more."
+        "text": "Call us at (833) 995-8271 or send us a message to learn more."
       },
       {
         "type": "p",
@@ -482,7 +482,7 @@ export const posts = [
       },
       {
         "type": "p",
-        "text": "Call us at (586) 356-3509 or send us a message to learn more."
+        "text": "Call us at (833) 995-8271 or send us a message to learn more."
       },
       {
         "type": "p",
@@ -642,7 +642,7 @@ export const posts = [
       },
       {
         "type": "p",
-        "text": "Call us at (586) 356-3509 or send us a message to talk about help with errands and appointments."
+        "text": "Call us at (833) 995-8271 or send us a message to talk about help with errands and appointments."
       },
       {
         "type": "p",
@@ -777,7 +777,7 @@ export const posts = [
       },
       {
         "type": "p",
-        "text": "Call us at (586) 356-3509 or send us a message to learn more."
+        "text": "Call us at (833) 995-8271 or send us a message to learn more."
       },
       {
         "type": "p",
@@ -921,7 +921,7 @@ export const posts = [
       },
       {
         "type": "p",
-        "text": "If you are looking for home care in San Antonio, TX or a caring companion in Austin for a loved one with dementia, call Gerousia Care Services at (586) 356-3509 or send us a message. We are happy to talk through what your family needs."
+        "text": "If you are looking for home care in San Antonio, TX or a caring companion in Austin for a loved one with dementia, call Gerousia Care Services at (833) 995-8271 or send us a message. We are happy to talk through what your family needs."
       },
       {
         "type": "p",
@@ -1069,7 +1069,7 @@ export const posts = [
       },
       {
         "type": "p",
-        "text": "Gerousia Care Services is preparing to offer non-medical home care in Austin and San Antonio, Texas. Contact us about upcoming services. Call us at (586) 356-3509 or send us a message to talk about planned respite and other support at home."
+        "text": "Gerousia Care Services is preparing to offer non-medical home care in Austin and San Antonio, Texas. Contact us about upcoming services. Call us at (833) 995-8271 or send us a message to talk about planned respite and other support at home."
       },
       {
         "type": "p",
@@ -1231,7 +1231,7 @@ export const posts = [
       },
       {
         "type": "p",
-        "text": "Gerousia Care Services is preparing to offer non-medical home care in Austin and San Antonio, Texas. Contact us about upcoming services. To learn more about medication reminders and other help at home, call (586) 356-3509 or send us a message."
+        "text": "Gerousia Care Services is preparing to offer non-medical home care in Austin and San Antonio, Texas. Contact us about upcoming services. To learn more about medication reminders and other help at home, call (833) 995-8271 or send us a message."
       },
       {
         "type": "p",
@@ -1383,7 +1383,7 @@ export const posts = [
       },
       {
         "type": "p",
-        "text": "Gerousia Care Services is preparing to offer non-medical home care in Austin and San Antonio, Texas. Contact us about upcoming services. Call (586) 356-3509 or send us a message to talk about support for the colder months."
+        "text": "Gerousia Care Services is preparing to offer non-medical home care in Austin and San Antonio, Texas. Contact us about upcoming services. Call (833) 995-8271 or send us a message to talk about support for the colder months."
       },
       {
         "type": "p",
@@ -1545,7 +1545,7 @@ export const posts = [
       },
       {
         "type": "p",
-        "text": "Gerousia Care Services is preparing to offer non-medical home care in Austin and San Antonio, Texas. Contact us about upcoming services. Reach us at (586) 356-3509 or send us a message to talk about your parent’s needs."
+        "text": "Gerousia Care Services is preparing to offer non-medical home care in Austin and San Antonio, Texas. Contact us about upcoming services. Reach us at (833) 995-8271 or send us a message to talk about your parent’s needs."
       },
       {
         "type": "p",

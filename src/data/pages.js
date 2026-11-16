@@ -17,8 +17,8 @@ export const homePage = {
           "href": "/contact"
         },
         {
-          "label": "Call (586) 356-3509",
-          "href": "tel:+15863563509"
+          "label": "Call (833) 995-8271",
+          "href": "tel:+18339958271"
         }
       ],
       "checks": [
@@ -169,7 +169,7 @@ export const homePage = {
         {
           "number": "1",
           "title": "Talk with us",
-          "body": "Call (586) 356-3509 or send us a message to tell us about yourself or the person you love."
+          "body": "Call (833) 995-8271 or send us a message to tell us about yourself or the person you love."
         },
         {
           "number": "2",
@@ -223,8 +223,8 @@ export const homePage = {
       "body": "Whether you’re exploring support for yourself or someone you love, we welcome the opportunity to learn what matters to you. Contact us about upcoming services.",
       "areaStatus": "Planned service area: Austin and San Antonio, Texas.",
       "cta": {
-        "label": "Call (586) 356-3509",
-        "href": "tel:+15863563509"
+        "label": "Call (833) 995-8271",
+        "href": "tel:+18339958271"
       },
       "contactRows": [
         {
@@ -233,12 +233,12 @@ export const homePage = {
         },
         {
           "label": "Phone",
-          "value": "(586) 356-3509",
-          "href": "tel:+15863563509"
+          "value": "(833) 995-8271",
+          "href": "tel:+18339958271"
         },
         {
           "label": "Email",
-          "value": "alexconner2323@gmail.com"
+          "value": "gerousiacare@outlook.com"
         },
         {
           "label": "Office hours",
@@ -301,8 +301,8 @@ export const homePage = {
           "href": "/contact"
         },
         {
-          "label": "Call (586) 356-3509",
-          "href": "tel:+15863563509"
+          "label": "Call (833) 995-8271",
+          "href": "tel:+18339958271"
         }
       ]
     }
@@ -432,8 +432,8 @@ export const aboutPage = {
           "href": "/contact"
         },
         {
-          "label": "Call (586) 356-3509",
-          "href": "tel:+15863563509"
+          "label": "Call (833) 995-8271",
+          "href": "tel:+18339958271"
         }
       ]
     }
@@ -518,8 +518,8 @@ export const servicesPage = {
           "href": "/contact"
         },
         {
-          "label": "Call (586) 356-3509",
-          "href": "tel:+15863563509"
+          "label": "Call (833) 995-8271",
+          "href": "tel:+18339958271"
         }
       ]
     }

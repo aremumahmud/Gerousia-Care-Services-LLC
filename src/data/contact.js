@@ -4,7 +4,7 @@ export const contactContent = {
   "meta": {
     "route": "/contact",
     "title": "Contact Us | Gerousia Care Services, Austin & San Antonio",
-    "description": "Contact Gerousia Care Services in Austin, TX. Call (586) 356-3509 about upcoming non-medical home care in Austin and San Antonio."
+    "description": "Contact Gerousia Care Services in Austin, TX. Call (833) 995-8271 about upcoming non-medical home care in Austin and San Antonio."
   },
   "sections": [
     {
@@ -22,12 +22,12 @@ export const contactContent = {
       "rows": [
         {
           "label": "Call us",
-          "value": "(586) 356-3509",
-          "href": "tel:+15863563509"
+          "value": "(833) 995-8271",
+          "href": "tel:+18339958271"
         },
         {
           "label": "Email",
-          "value": "alexconner2323@gmail.com"
+          "value": "gerousiacare@outlook.com"
         },
         {
           "label": "Office",
@@ -116,8 +116,8 @@ export const contactContent = {
           "href": "/contact"
         },
         {
-          "label": "Call (586) 356-3509",
-          "href": "tel:+15863563509"
+          "label": "Call (833) 995-8271",
+          "href": "tel:+18339958271"
         }
       ]
     }

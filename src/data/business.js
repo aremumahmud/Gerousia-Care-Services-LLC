@@ -10,10 +10,10 @@ export const business = {
     'Compassionate, non-medical home care planned for Austin and San Antonio, TX.',
 
   // Contact
-  phone: '(586) 356-3509',
-  phoneHref: 'tel:+15863563509',
-  email: 'alexconner2323@gmail.com',
-  emailHref: 'mailto:alexconner2323@gmail.com',
+  phone: '(833) 995-8271',
+  phoneHref: 'tel:+18339958271',
+  email: 'gerousiacare@outlook.com',
+  emailHref: 'mailto:gerousiacare@outlook.com',
 
   // Location
   address: {

@@ -75,14 +75,14 @@ export const services = [
       {
         "heading": "Planned service area: Austin & San Antonio",
         "paragraphs": [
-          "Gerousia Care Services plans to offer Personal Care With Dignity in Austin and San Antonio, Texas. Contact us about upcoming services: call (586) 356-3509 or send us a message."
+          "Gerousia Care Services plans to offer Personal Care With Dignity in Austin and San Antonio, Texas. Contact us about upcoming services: call (833) 995-8271 or send us a message."
         ]
       }
     ],
     "ctas": [
       {
-        "label": "Call (586) 356-3509",
-        "href": "tel:+15863563509"
+        "label": "Call (833) 995-8271",
+        "href": "tel:+18339958271"
       },
       {
         "label": "Send a message",
@@ -172,14 +172,14 @@ export const services = [
       {
         "heading": "Planned service area: Austin & San Antonio",
         "paragraphs": [
-          "Gerousia Care Services plans to offer Meaningful Companionship in Austin and San Antonio, Texas. Contact us about upcoming services: call (586) 356-3509 or send us a message."
+          "Gerousia Care Services plans to offer Meaningful Companionship in Austin and San Antonio, Texas. Contact us about upcoming services: call (833) 995-8271 or send us a message."
         ]
       }
     ],
     "ctas": [
       {
-        "label": "Call (586) 356-3509",
-        "href": "tel:+15863563509"
+        "label": "Call (833) 995-8271",
+        "href": "tel:+18339958271"
       },
       {
         "label": "Send a message",
@@ -269,14 +269,14 @@ export const services = [
       {
         "heading": "Planned service area: Austin & San Antonio",
         "paragraphs": [
-          "Gerousia Care Services plans to offer Comfort at Home in Austin and San Antonio, Texas. Contact us about upcoming services: call (586) 356-3509 or send us a message."
+          "Gerousia Care Services plans to offer Comfort at Home in Austin and San Antonio, Texas. Contact us about upcoming services: call (833) 995-8271 or send us a message."
         ]
       }
     ],
     "ctas": [
       {
-        "label": "Call (586) 356-3509",
-        "href": "tel:+15863563509"
+        "label": "Call (833) 995-8271",
+        "href": "tel:+18339958271"
       },
       {
         "label": "Send a message",
@@ -366,14 +366,14 @@ export const services = [
       {
         "heading": "Planned service area: Austin & San Antonio",
         "paragraphs": [
-          "Gerousia Care Services plans to offer Meals Made Personal in Austin and San Antonio, Texas. Contact us about upcoming services: call (586) 356-3509 or send us a message."
+          "Gerousia Care Services plans to offer Meals Made Personal in Austin and San Antonio, Texas. Contact us about upcoming services: call (833) 995-8271 or send us a message."
         ]
       }
     ],
     "ctas": [
       {
-        "label": "Call (586) 356-3509",
-        "href": "tel:+15863563509"
+        "label": "Call (833) 995-8271",
+        "href": "tel:+18339958271"
       },
       {
         "label": "Send a message",
@@ -463,14 +463,14 @@ export const services = [
       {
         "heading": "Planned service area: Austin & San Antonio",
         "paragraphs": [
-          "Gerousia Care Services plans to offer Support for Family Caregivers in Austin and San Antonio, Texas. Contact us about upcoming services: call (586) 356-3509 or send us a message."
+          "Gerousia Care Services plans to offer Support for Family Caregivers in Austin and San Antonio, Texas. Contact us about upcoming services: call (833) 995-8271 or send us a message."
         ]
       }
     ],
     "ctas": [
       {
-        "label": "Call (586) 356-3509",
-        "href": "tel:+15863563509"
+        "label": "Call (833) 995-8271",
+        "href": "tel:+18339958271"
       },
       {
         "label": "Send a message",
@@ -560,14 +560,14 @@ export const services = [
       {
         "heading": "Planned service area: Austin & San Antonio",
         "paragraphs": [
-          "Gerousia Care Services plans to offer Everyday Assistance in Austin and San Antonio, Texas. Contact us about upcoming services: call (586) 356-3509 or send us a message."
+          "Gerousia Care Services plans to offer Everyday Assistance in Austin and San Antonio, Texas. Contact us about upcoming services: call (833) 995-8271 or send us a message."
         ]
       }
     ],
     "ctas": [
       {
-        "label": "Call (586) 356-3509",
-        "href": "tel:+15863563509"
+        "label": "Call (833) 995-8271",
+        "href": "tel:+18339958271"
       },
       {
         "label": "Send a message",
@@ -658,14 +658,14 @@ export const services = [
       {
         "heading": "Planned service area: Austin & San Antonio",
         "paragraphs": [
-          "Gerousia Care Services plans to offer Dementia & Alzheimer’s Care in Austin and San Antonio, Texas. Contact us about upcoming services: call (586) 356-3509 or send us a message."
+          "Gerousia Care Services plans to offer Dementia & Alzheimer’s Care in Austin and San Antonio, Texas. Contact us about upcoming services: call (833) 995-8271 or send us a message."
         ]
       }
     ],
     "ctas": [
       {
-        "label": "Call (586) 356-3509",
-        "href": "tel:+15863563509"
+        "label": "Call (833) 995-8271",
+        "href": "tel:+18339958271"
       },
       {
         "label": "Send a message",

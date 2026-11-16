@@ -152,8 +152,8 @@ export const careersContent = {
           "heading": "Questions about working with us?",
           "body": "Call our office to ask about open roles.",
           "cta": {
-            "label": "(586) 356-3509",
-            "href": "tel:+15863563509"
+            "label": "(833) 995-8271",
+            "href": "tel:+18339958271"
           }
         },
         {
